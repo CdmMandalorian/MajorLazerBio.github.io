@@ -1,0 +1,32 @@
+body{
+    background-color: #21a286;
+    display: block;
+    
+
+}
+
+h1{
+    font-weight: bold;
+    font-size: x-large;
+    
+}
+
+h2{
+    font-weight: bold;
+    font-size: large;
+}
+
+h3{
+    font-weight: bold;
+    font-size: medium;
+}
+
+header {
+    float: center;
+    text-align: center;
+    display: block;
+}
+
+footer{
+    
+}
