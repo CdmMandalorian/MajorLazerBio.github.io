@@ -1,13 +1,27 @@
+.year {
+    display: inline-table;
+    float: left;
+    margin: 20px;
+}
+
+.stage {
+    display: inline-table;
+    float: left;
+    margin: 20px;
+}
+
+
 body{
     background-color: #21a286;
     display: block;
-    
+    font-family: 'Sora', sans-serif;
 
 }
 
 h1{
     font-weight: bold;
-    font-size: x-large;
+    font-size: 50px;
+    
     
 }
 
@@ -26,10 +40,22 @@ header {
     text-align: center;
     display: block;
 }
+
 p {
     text-align: justify;
 }
 
-footer{
+.getfree {
+    clear: both;
+}
+
+.card{
+    display: inline-block;
+    max-width: 100px;;
     
+}
+.card img {
+    flex-flow: wrap;
+    height: 200px;
+    width: 100px;
 }
